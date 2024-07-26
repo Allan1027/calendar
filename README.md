@@ -1,24 +1,25 @@
-# README
+#Calendar Website 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Features
+* Add Event 
+* Delete Event 
+* Click left or right arrow can go to other month
+* Type the month to go to the certain month
 
-Things you may want to cover:
+2. Step-by-step guide
+* Install Required Software to run code, Node.js: https://nodejs.org/en Git bash terminal: https://git-scm.com/download Rails: https://hotframeworks.com/railsinstaller-org/ Update Ruby latest version: https://rubyinstaller.org/downloads/ (choose the bold one and there is a cmd pop out press enter) Update Rails: Open Git Bash and enter Gem install rails
 
-* Ruby version
+* Place source code folder in C drive and type below commands in Git Bash:
 
-* System dependencies
+* cd /c/calendar
 
-* Configuration
+* cd calendar
 
-* Database creation
+* rails s
 
-* Database initialization
+* Enter 'localhost:3000' in your web browser
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
